@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const LandingPage = () => {
+const landing-page = () => {
   return (
     <div style={styles.container}>
       <div style={styles.content}>
