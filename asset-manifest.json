@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/paradise-nursery/static/js/main.568141b2.js",
-    "index.html": "/paradise-nursery/index.html",
-    "main.568141b2.js.map": "/paradise-nursery/static/js/main.568141b2.js.map"
+    "main.js": "/e-plantShopping/static/js/main.568141b2.js",
+    "index.html": "/e-plantShopping/index.html",
+    "main.568141b2.js.map": "/e-plantShopping/static/js/main.568141b2.js.map"
   },
   "entrypoints": [
     "static/js/main.568141b2.js"
